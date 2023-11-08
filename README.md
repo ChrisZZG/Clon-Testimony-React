@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![image](https://github.com/ChrisZZG/Clon-Testimony-React/assets/104231253/5b735688-39eb-426a-97a1-c5e71ef9dcfd)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
